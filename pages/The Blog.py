@@ -43,7 +43,9 @@ with st.container():
         Soon, when I feel like it, I'll run benchmarks and install games, but till then,
         we won't have any updates.
                  
-        Expect an update by late April, peace!
+        UPD:
+
+        Yeah, I kinda killed it... No worries. Imma try it again on a COMPAQ this time but with windows 98 :)
 
         ''')
 
