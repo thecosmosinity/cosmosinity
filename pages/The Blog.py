@@ -47,6 +47,13 @@ with st.container():
 
         Yeah, I kinda killed it... No worries. Imma try it again on a COMPAQ this time but with windows 98 :)
 
+        UPD 2:
+        Compaq is... Dead... I'M A LAPTOP KILLER!
+        Well, not really. It's still running but ScanDisk hates my WD Scorpio Drive from 2012... I got ME Setup 
+        on but it just crashed on me. I got to 98 wizard and said I need 16MB of RAM... But i have 2GB's of RAM..?
+
+        If anybody wants to look up the COMPAQ I got, Search for COMPAQ-510.
+
         ''')
 
 st.write("© 2024 - 2024 cosmosinity - All Rights Reserved.")
