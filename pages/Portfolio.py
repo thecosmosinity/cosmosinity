@@ -32,6 +32,7 @@ with st.container():
 
         ''')
         st.write("[Another cool website!](https://oguser.xyz/redirect)")
+        st.write("[GitHub for my projects](https://github.com/thecosmosinity/python-archive)")
 
 with st.container():
     st.write("---")
