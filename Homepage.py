@@ -13,4 +13,4 @@ def css(file_name):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 css("style/style.css")
 
-st.write("© 2024 - 2024 cosmosinity - All Rights Reserved.")
+st.write("© 2024 - 2025 cosmosinity - All Rights Reserved.")
