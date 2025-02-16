@@ -53,7 +53,6 @@ with st.container():
         st.empty()
     with right:
         st_lottie(mail_bbg, height=200)
-    st.write("psst! message me with the form to get your own website, paypal or rbx.")
     
 
 st.write("© 2024 - 2024 cosmosinity - All Rights Reserved.")
